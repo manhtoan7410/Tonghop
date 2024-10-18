@@ -43,12 +43,12 @@
             // 
             // lblPhuongTrinh
             // 
-            lblPhuongTrinh.BackColor = Color.Firebrick;
+            lblPhuongTrinh.BackColor = SystemColors.MenuHighlight;
             lblPhuongTrinh.Font = new Font("Segoe UI", 15.8571434F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblPhuongTrinh.ForeColor = Color.White;
-            lblPhuongTrinh.Location = new Point(160, 9);
+            lblPhuongTrinh.Location = new Point(173, 9);
             lblPhuongTrinh.Name = "lblPhuongTrinh";
-            lblPhuongTrinh.Size = new Size(481, 119);
+            lblPhuongTrinh.Size = new Size(521, 123);
             lblPhuongTrinh.TabIndex = 0;
             lblPhuongTrinh.Text = "ax² + bx + c = 0";
             lblPhuongTrinh.TextAlign = ContentAlignment.MiddleCenter;
@@ -56,66 +56,66 @@
             // lblA
             // 
             lblA.AutoSize = true;
-            lblA.Location = new Point(50, 176);
+            lblA.Location = new Point(54, 182);
             lblA.Name = "lblA";
-            lblA.Size = new Size(50, 30);
+            lblA.Size = new Size(56, 32);
             lblA.TabIndex = 1;
             lblA.Text = "a = ";
             // 
             // lblB
             // 
             lblB.AutoSize = true;
-            lblB.Location = new Point(325, 176);
+            lblB.Location = new Point(352, 182);
             lblB.Name = "lblB";
-            lblB.Size = new Size(51, 30);
+            lblB.Size = new Size(58, 32);
             lblB.TabIndex = 2;
             lblB.Text = "b = ";
             // 
             // lblC
             // 
             lblC.AutoSize = true;
-            lblC.Location = new Point(592, 176);
+            lblC.Location = new Point(641, 182);
             lblC.Name = "lblC";
-            lblC.Size = new Size(49, 30);
+            lblC.Size = new Size(55, 32);
             lblC.TabIndex = 3;
             lblC.Text = "c = ";
             // 
             // txtA
             // 
-            txtA.Location = new Point(124, 173);
+            txtA.Location = new Point(134, 179);
             txtA.Name = "txtA";
-            txtA.Size = new Size(124, 35);
+            txtA.Size = new Size(134, 38);
             txtA.TabIndex = 0;
             // 
             // txtB
             // 
-            txtB.Location = new Point(399, 171);
+            txtB.Location = new Point(432, 177);
             txtB.Name = "txtB";
-            txtB.Size = new Size(124, 35);
+            txtB.Size = new Size(134, 38);
             txtB.TabIndex = 1;
             // 
             // txtC
             // 
-            txtC.Location = new Point(675, 171);
+            txtC.Location = new Point(731, 177);
             txtC.Name = "txtC";
-            txtC.Size = new Size(124, 35);
+            txtC.Size = new Size(134, 38);
             txtC.TabIndex = 2;
             // 
             // lblKetQua
             // 
             lblKetQua.BorderStyle = BorderStyle.FixedSingle;
             lblKetQua.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblKetQua.Location = new Point(50, 311);
+            lblKetQua.Location = new Point(54, 321);
             lblKetQua.Name = "lblKetQua";
-            lblKetQua.Size = new Size(747, 120);
+            lblKetQua.Size = new Size(809, 124);
             lblKetQua.TabIndex = 5;
             // 
             // btnSolve
             // 
             btnSolve.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnSolve.Location = new Point(675, 9);
+            btnSolve.Location = new Point(731, 9);
             btnSolve.Name = "btnSolve";
-            btnSolve.Size = new Size(138, 55);
+            btnSolve.Size = new Size(150, 57);
             btnSolve.TabIndex = 4;
             btnSolve.Text = "Solve";
             btnSolve.UseVisualStyleBackColor = true;
@@ -124,9 +124,9 @@
             // btnReset
             // 
             btnReset.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnReset.Location = new Point(675, 70);
+            btnReset.Location = new Point(731, 72);
             btnReset.Name = "btnReset";
-            btnReset.Size = new Size(138, 58);
+            btnReset.Size = new Size(150, 60);
             btnReset.TabIndex = 3;
             btnReset.Text = "Reset";
             btnReset.UseVisualStyleBackColor = true;
@@ -135,9 +135,9 @@
             // btnExit
             // 
             btnExit.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnExit.Location = new Point(50, 227);
+            btnExit.Location = new Point(54, 235);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(747, 55);
+            btnExit.Size = new Size(809, 57);
             btnExit.TabIndex = 6;
             btnExit.Text = "Exit";
             btnExit.UseVisualStyleBackColor = true;
@@ -146,10 +146,10 @@
             // Form1
             // 
             AcceptButton = btnSolve;
-            AutoScaleDimensions = new SizeF(12F, 30F);
+            AutoScaleDimensions = new SizeF(13F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
             CancelButton = btnExit;
-            ClientSize = new Size(839, 502);
+            ClientSize = new Size(909, 519);
             Controls.Add(btnExit);
             Controls.Add(btnReset);
             Controls.Add(btnSolve);
@@ -161,6 +161,7 @@
             Controls.Add(lblB);
             Controls.Add(lblA);
             Controls.Add(lblPhuongTrinh);
+            Font = new Font("Segoe UI", 9.857143F, FontStyle.Regular, GraphicsUnit.Point, 0);
             KeyPreview = true;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
