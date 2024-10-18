@@ -1,0 +1,16 @@
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\net8.0-windows\PhuongTrinhBac2.exe
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\net8.0-windows\PhuongTrinhBac2.deps.json
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\net8.0-windows\PhuongTrinhBac2.runtimeconfig.json
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\net8.0-windows\PhuongTrinhBac2.dll
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\net8.0-windows\PhuongTrinhBac2.pdb
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.Form1.resources
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.csproj.GenerateResource.cache
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.AssemblyInfoInputs.cache
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.AssemblyInfo.cs
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.dll
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\refint\PhuongTrinhBac2.dll
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.pdb
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\PhuongTrinhBac2.genruntimeconfig.cache
+D:\My Project\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\net8.0-windows\ref\PhuongTrinhBac2.dll
