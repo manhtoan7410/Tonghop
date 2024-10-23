@@ -105,9 +105,9 @@
             // 
             lblKetQua.BorderStyle = BorderStyle.FixedSingle;
             lblKetQua.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblKetQua.Location = new Point(54, 321);
+            lblKetQua.Location = new Point(54, 322);
             lblKetQua.Name = "lblKetQua";
-            lblKetQua.Size = new Size(809, 124);
+            lblKetQua.Size = new Size(809, 317);
             lblKetQua.TabIndex = 5;
             // 
             // btnSolve
@@ -149,7 +149,7 @@
             AutoScaleDimensions = new SizeF(13F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
             CancelButton = btnExit;
-            ClientSize = new Size(909, 519);
+            ClientSize = new Size(909, 697);
             Controls.Add(btnExit);
             Controls.Add(btnReset);
             Controls.Add(btnSolve);

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Videos\\Test Github\\Tonghop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03D7678-8C54-4747-98D6-1A430CEE85FB}|PhuongTrinhBac2\\PhuongTrinhBac2.csproj|D:\\Videos\\Test Github\\Tonghop\\phuongtrinhbac2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D03D7678-8C54-4747-98D6-1A430CEE85FB}|PhuongTrinhBac2\\PhuongTrinhBac2.csproj|d:\\videos\\test github\\tonghop\\phuongtrinhbac2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D03D7678-8C54-4747-98D6-1A430CEE85FB}|PhuongTrinhBac2\\PhuongTrinhBac2.csproj|solutionrelative:phuongtrinhbac2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -26,8 +26,8 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Videos\\Test Github\\Tonghop\\PhuongTrinhBac2\\Form1.cs",
               "RelativeDocumentMoniker": "PhuongTrinhBac2\\Form1.cs",
-              "ToolTip": "D:\\Videos\\Test Github\\Tonghop\\PhuongTrinhBac2\\Form1.cs",
-              "RelativeToolTip": "PhuongTrinhBac2\\Form1.cs",
+              "ToolTip": "D:\\Videos\\Test Github\\Tonghop\\PhuongTrinhBac2\\Form1.cs*",
+              "RelativeToolTip": "PhuongTrinhBac2\\Form1.cs*",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T09:12:08.198Z",
@@ -40,8 +40,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Videos\\Test Github\\Tonghop\\PhuongTrinhBac2\\Form1.cs",
               "RelativeDocumentMoniker": "PhuongTrinhBac2\\Form1.cs",
-              "ToolTip": "D:\\Videos\\Test Github\\Tonghop\\PhuongTrinhBac2\\Form1.cs [Design]",
-              "RelativeToolTip": "PhuongTrinhBac2\\Form1.cs [Design]",
+              "ToolTip": "D:\\Videos\\Test Github\\Tonghop\\PhuongTrinhBac2\\Form1.cs [Design]*",
+              "RelativeToolTip": "PhuongTrinhBac2\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T09:01:18.166Z",
               "EditorCaption": " [Design]"
